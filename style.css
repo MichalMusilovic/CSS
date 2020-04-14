@@ -1,0 +1,35 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 5. 4. 2020, 19:47:35
+    Author     : RatPC
+*/
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+.intro {
+  background-color: yellow;
+}
+#test {
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+  
+} 
+
+
+
+    
+
+
+ 
